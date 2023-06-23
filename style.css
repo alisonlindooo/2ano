@@ -37,6 +37,15 @@ body {
     padding: 24px 0;
 }
 
+@media(max-width:800px){
+    .escola{background-image: linear-gradient(#e75021,#d8eb71));
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;}
+
+        
+}
 .escola-div-conteudo{
     width: 35%;
 }
